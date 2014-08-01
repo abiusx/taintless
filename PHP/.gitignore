@@ -1,4 +1,5 @@
 vendor
+*.pyc
 vendor/*
 *.lock
 .DS_Store
