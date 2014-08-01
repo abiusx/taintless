@@ -1,0 +1,6 @@
+mysql_query
+mysqli_query
+mysqli_real_query
+mysqli_multi_query
+mysql_db_query
+mssql_query
