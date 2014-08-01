@@ -1,0 +1,5 @@
+vendor
+vendor/*
+*.txt
+*.lock
+.DS_Store

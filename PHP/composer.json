@@ -1,0 +1,6 @@
+{
+    "require": {
+	"greenlion/php-sql-parser": "dev-trunk",
+        "nikic/php-parser": "1.0.0-beta1"
+    }
+}
